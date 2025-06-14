@@ -30,7 +30,6 @@ A professional inventory tracking dashboard built with **Next.js**, **TypeScript
 * **User Dashboard**
   ![User dashboard (non-admin) showing allowed views](./docs/dashboard_user.png)
 
-*(Place actual screenshots in `docs/` directory and keep markdown names consistent.)*
 
 ---
 
