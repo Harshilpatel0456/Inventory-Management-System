@@ -4,33 +4,31 @@ A professional inventory tracking dashboard built with **Next.js**, **TypeScript
 
 ---
 
-## 📸 App Screenshots
+## 📸 App Screenshots:
+Note: If you are unable to view the images then you can go to the assets folder and view the images.
 * **Login Page**
   ![Login page](./assets/1.png)
 
-
 * **Admin Dashboard**
-  ![Admin dashboard with stats & low-stock alerts](./docs/dashboard_admin.png)
+  ![Admin dashboard with stats & low-stock alerts](./assets/dashboard_admin.png)
 
 * **Products List**
-  ![Product inventory table with codes, prices, stock, actions](./docs/products.png)
+  ![Product inventory table with codes, prices, stock, actions](./assets/products.png)
 
 * **Stock Management**
-  ![Stock levels view with current status](./docs/stock.png)
+  ![Stock levels view with current status](./assets/stock.png)
 
 * **Sales Management**
-  ![Sales summary and top-selling products chart](./docs/sales.png)
+  ![Sales summary and top-selling products chart](./assets/sales.png)
 
 * **Reports & Analytics**
-  ![Product sales performance table](./docs/reports.png)
+  ![Product sales performance table](./assets/reports.png)
 
 * **User Management**
-  ![Admin view of users with roles and statuses](./docs/users.png)
+  ![Admin view of users with roles and statuses](./assets/users.png)
 
 * **User Dashboard**
-  ![User dashboard (non-admin) showing allowed views](./docs/dashboard_user.png)
-
-*(Place actual screenshots in `docs/` directory and keep markdown names consistent.)*
+  ![User dashboard (non-admin) showing allowed views](./assets/dashboard_user.png)
 
 ---
 
@@ -63,7 +61,7 @@ A professional inventory tracking dashboard built with **Next.js**, **TypeScript
 
 * **Node.js** v18+
 * **pnpm** installed globally (`npm install -g pnpm`)
-* Environment variables in `.env.local` (see `.env.example`)
+* Environment variables in `.env.local` (see `.env.example`)you need to create the .env.local file and put your databade url in it
 
 ### Installation
 
