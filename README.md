@@ -5,7 +5,7 @@ A professional inventory tracking dashboard built with **Next.js**, **TypeScript
 ---
 
 ## 📸 App Screenshots
-<a href="./Internship/appifly/1.png">
+<a href="./Desktop/Internship/appifly/1.png">
   <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
   <h1 align="center">Login Page</h1>
 </a>
