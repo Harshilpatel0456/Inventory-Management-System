@@ -68,7 +68,7 @@ Note: If you are unable to view the images then you can go to the assets folder 
 ```bash
 git clone https://github.com/harshilpatel/Inventory_Management_System.git
 cd Inventory_Management_System
-pnpm install
+npm install
 ```
 
 ### Configuration
@@ -87,7 +87,7 @@ pnpm install
 ### Run Locally
 
 ```bash
-pnpm dev
+npm run dev
 ```
 
 🎉 Visit [http://localhost:3000](http://localhost:3000) to access the app.
