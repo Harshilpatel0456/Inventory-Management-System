@@ -6,7 +6,8 @@ A professional inventory tracking dashboard built with **Next.js**, **TypeScript
 
 ## 📸 App Screenshots
 * **Login Page**
-  ![Login screen showing username/password form](./assets/1.png)
+  ![Login page](./assets/1.png)
+
 
 * **Admin Dashboard**
   ![Admin dashboard with stats & low-stock alerts](./docs/dashboard_admin.png)
